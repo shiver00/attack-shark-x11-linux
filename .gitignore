@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+.xdp-*
+
+# imagens de marca (não versionar)
+atk-logo.*
+atk-logo-dark.*
+atk-mouse.*
